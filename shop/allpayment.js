@@ -1,31 +1,20 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY ZAKYOFC
 
-*🏧 BANK*
-
-1. BRI 
-	ㅁ 8881 0887 4350 47326
-2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
-	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0887 0823 1116
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0882 7170 7571
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0821 8235 1067
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama berbeda-beda
 
 *📲 PULSA*
 
-Tidak tersedia
+0882 7170 7571
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
